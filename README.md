@@ -34,6 +34,6 @@
     <a href="https://github.com/lanna-brenda/projetos-do-curso">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lanna-brenda&repo=projetos-do-curso&theme=moltack" />
 </a>
-<a href="https://github.com/lanna-brenda/labetube">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lanna-brenda&repo=labetube&theme=moltack" />
+<a href="https://github.com/lanna-brenda/Joy-labenu-system9">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lanna-brenda&repo=Joy-labenu-system9&theme=moltack" />
 </a>
