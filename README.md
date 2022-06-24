@@ -5,7 +5,7 @@
 <img alt="Night Coding" src="https://pa1.narvii.com/6611/6c8df355e617cc64077aabcb05af59a8a8c0634f_hq.gif" width="350px" height="300px" style="border-radius:20px" align="center"/>
 
 <em>Eu sou Lanna Brenda!</em><br/>
-<em>💜Desenvolvedora Web Fullstack em formação!</em><br/>
+<em>💜Desenvolvedora Web Fullstack em formação pela Labenu!</em><br/>
 <em>💜Em momentos livres gosto de aprender japonês e coreano.</em>
 <hr>
   
